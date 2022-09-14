@@ -12,4 +12,4 @@ Note:
 Solutions are coded in SQLite
 
 Interested in the challenge?
-You can start here [https://8weeksqlchallenge.com/]
+You can start [here](https://8weeksqlchallenge.com/)
