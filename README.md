@@ -10,3 +10,6 @@ Each case-study folder contains the following files
 
 Note:
 Solutions are coded in SQLite
+
+Interested in the challenge?
+You can start here [https://8weeksqlchallenge.com/]
