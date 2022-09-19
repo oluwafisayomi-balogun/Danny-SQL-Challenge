@@ -9,7 +9,8 @@ Each case-study folder contains the following files
 
 
 Note:
-Solutions are coded in pgSQL
+Solutions ending with .sql are coded in pgSQL
+Solutions ending with .sqbpro are coded in sqLite
 
 Interested in the challenge?
 You can start [here](https://8weeksqlchallenge.com/)
