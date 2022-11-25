@@ -29,7 +29,7 @@ The pickup_time is the timestamp at which the runner arrives at the Pizza Runner
 
 
 ## Entity Relationship Diagram
-![image]([https://user-images.githubusercontent.com/97428007/190128335-e9af99af-4c9a-4df5-8631-f930866caa05.png](https://github.com/manaswikamila05/8-Week-SQL-Challenge/blob/main/Case%20Study%20%23%202%20-%20Pizza%20Runner/ERD.jpg)
+![image](https://github.com/manaswikamila05/8-Week-SQL-Challenge/raw/main/Case%20Study%20%23%202%20-%20Pizza%20Runner/ERD.jpg)
 
 ## Case Study Questions
 This case study has LOTS of questions - they are broken up by area of focus including:
