@@ -29,7 +29,7 @@ The pickup_time is the timestamp at which the runner arrives at the Pizza Runner
 
 
 ## Entity Relationship Diagram
-![image](https://user-images.githubusercontent.com/97428007/190128335-e9af99af-4c9a-4df5-8631-f930866caa05.png)
+![image]([https://user-images.githubusercontent.com/97428007/190128335-e9af99af-4c9a-4df5-8631-f930866caa05.png](https://github.com/manaswikamila05/8-Week-SQL-Challenge/blob/main/Case%20Study%20%23%202%20-%20Pizza%20Runner/ERD.jpg))
 
 ## Case Study Questions
 This case study has LOTS of questions - they are broken up by area of focus including:
@@ -69,10 +69,10 @@ Again, there are many questions in this case study - please feel free to pick an
 2. What was the most commonly added extra?
 3. What was the most common exclusion?
 4. Generate an order item for each record in the customers_orders table in the format of one of the following:
-> Meat Lovers
-> Meat Lovers - Exclude Beef
-> Meat Lovers - Extra Bacon
-> Meat Lovers - Exclude Cheese, Bacon - Extra Mushroom, Peppers
+> 1. Meat Lovers
+> 2. Meat Lovers - Exclude Beef
+> 3. Meat Lovers - Extra Bacon
+> 4. Meat Lovers - Exclude Cheese, Bacon - Extra Mushroom, Peppers
 5. Generate an alphabetically ordered comma separated ingredient list for each pizza order from the customer_orders table and add a 2x in front of any relevant ingredients
 > For example: "Meat Lovers: 2xBacon, Beef, ... , Salami"
 6. What is the total quantity of each ingredient used in all delivered pizzas sorted by most frequent first?
