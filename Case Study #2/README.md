@@ -29,7 +29,7 @@ The pickup_time is the timestamp at which the runner arrives at the Pizza Runner
 
 
 ## Entity Relationship Diagram
-![image]([https://user-images.githubusercontent.com/97428007/190128335-e9af99af-4c9a-4df5-8631-f930866caa05.png](https://github.com/manaswikamila05/8-Week-SQL-Challenge/blob/main/Case%20Study%20%23%202%20-%20Pizza%20Runner/ERD.jpg))
+![image]([https://user-images.githubusercontent.com/97428007/190128335-e9af99af-4c9a-4df5-8631-f930866caa05.png](https://github.com/manaswikamila05/8-Week-SQL-Challenge/blob/main/Case%20Study%20%23%202%20-%20Pizza%20Runner/ERD.jpg)
 
 ## Case Study Questions
 This case study has LOTS of questions - they are broken up by area of focus including:
@@ -83,16 +83,16 @@ Again, there are many questions in this case study - please feel free to pick an
 > Add cheese is $1 extra
 3. The Pizza Runner team now wants to add an additional ratings system that allows customers to rate their runner, how would you design an additional table for this new dataset - generate a schema for this new table and insert your own data for ratings for each successful customer order between 1 to 5.
 Using your newly generated table - can you join all of the information together to form a table which has the following information for successful deliveries?
-> customer_id
-> order_id
-> runner_id
-> rating
-> order_time
-> pickup_time
-> Time between order and pickup
-> Delivery duration
-> Average speed
-> Total number of pizzas
+> 1. customer_id
+> 2. order_id
+> 3. runner_id
+> 4. rating
+> 5. order_time
+> 6. pickup_time
+> 7. Time between order and pickup
+> 8. Delivery duration
+> 9. Average speed
+> 10. Total number of pizzas
 4. If a Meat Lovers pizza was $12 and Vegetarian $10 fixed prices with no cost for extras and each runner is paid $0.30 per kilometre traveled - how much money does Pizza Runner have left over after these deliveries?
 
 ### Bonus Questions
