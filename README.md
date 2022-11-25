@@ -5,7 +5,7 @@ The 8 Week SQL Challenge is started by Danny Ma which consists of different SQL 
 Each case-study folder contains the following files
 > 1. A readme file explaining the problem statement and datasets used
 > 2. SQL file to create the schema, tables and loading data
-> 3. MD files which contains SQL queries answering the respective challenge questions
+> 3. SQL file showing solutions
 
 
 Note:
